@@ -1,4 +1,4 @@
-# makeduck
+# 스키장ter
 
 [About](index.md)
 
@@ -14,9 +14,11 @@
   * [구성](tab01/file08.md)
 
 [현황]()
+
   * [모델링](tab02/file01.md)
 
 [일지]()
+
   * [일지](tab03/file01.md)
 
 [gimmick:theme (inverse: false)](cerulean)
