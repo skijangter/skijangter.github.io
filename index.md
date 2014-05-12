@@ -64,5 +64,5 @@ data : parse api (parse.com)
 comment
 --------
 
-[gimmick:Disqus](skijangter)
+[gimmick:Disqus](skijangterapp)
 
