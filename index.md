@@ -21,7 +21,7 @@ comming soon 2014. 10월
 comment
 --------
 
-[gimmick:Disqus](skijangter)
+[gimmick:Disqus](asdfwefwe)
 
 
 sadfasdf
