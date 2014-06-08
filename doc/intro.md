@@ -11,4 +11,3 @@
 
 ![](https://scontent-b.xx.fbcdn.net/hphotos-xfa1/t1.0-9/1601053_686330254753870_8650376419930191536_n.jpg)
 
-![](https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xpf1/t31.0-8/10382086_509858215808777_6703730371950613427_o.jpg)
