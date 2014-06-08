@@ -75,3 +75,5 @@
 - 협업: trello
 - data : parse api (parse.com)
 - 모바일개발플렛폼 :  android bootstrap
+
+[gimmick:Disqus](skijangterapp)

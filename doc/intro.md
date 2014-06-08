@@ -4,3 +4,5 @@
 ![](img/skidemo.jpg)
 
 ![](img/등록하기.jpg)![](img/메인페이지.jpg)![](img/숙박페이지.jpg)![](img/카풀.jpg)![](img/판매등록.jpg)![](img/푸시알림.jpg)
+
+[gimmick:Disqus](skijangterapp)
