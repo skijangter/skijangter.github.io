@@ -28,12 +28,12 @@
 - 평창올림픽(2018.02). 대형 이벤트 존재
 - 겨울 운동인구의 증가. 스키의 대중화
 - 시장 조사(2012) 기준
-- 스키장 현황 http://www.tour.go.kr/stat/IS2/IS_ski_lst.asp
+- [스키장 현황](http://www.tour.go.kr/stat/IS2/IS_ski_lst.asp)
 - 이용자수: 6백만명.
 - 시장규모: 약 3000억
 
 ## 경쟁상대
-- 헝그리보드 http://www.hungryboarder.com/index.php?&mid=Openmarket11&search_target=title_content&search_keyword=%EA%B6%8C&document_srl=27353467
+- [헝그리보드](http://www.hungryboarder.com/index.php?&mid=Openmarket11&search_target=title_content&search_keyword=%EA%B6%8C&document_srl=27353467)
 - 유명 커뮤니티 카페, 블로그
 
 ## 고객은
