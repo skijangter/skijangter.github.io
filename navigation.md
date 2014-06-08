@@ -8,7 +8,7 @@
 
 [정산](doc/settlement.md)
 
-[멤버](index.md)
+[멤버](member.md)
 
 
 
