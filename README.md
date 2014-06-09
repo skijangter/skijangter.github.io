@@ -12,6 +12,6 @@ You can make your winter vacation perfect using SkijangTer!!
 
 ##### Made by MonkeyBand in beLAUNCHXHackathon 2014
 Devdesigner : Myung Hwa Jo, Jun Hyup Song, Kyung Joo Lee
-Developer : Jae Won Seo, Gawck Myung Hwa, Aleum Kim
+Developer : Jae Won Seo, Du Hwan Kwack, Aleum Kim
 
 For the win!
